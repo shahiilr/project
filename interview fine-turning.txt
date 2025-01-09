@@ -1,0 +1,35 @@
+Project Name
+Interview Chatbot AI
+
+Description
+This project is a Data Science and Machine Learning interview chatbot AI, trained on a dataset of questions and answers. It provides a conversational interface to help users prepare for interviews by answering relevant questions.
+
+Features
+Provides accurate answers to a variety of interview questions.
+Includes sections on data science, machine learning, neural networks, and coding tasks.
+Prepares candidates for beginner, intermediate, and advanced-level interviews.
+Files
+Untitled9.ipynb: Contains the code for the chatbot AI's implementation and logic.
+questions_answers.json: A JSON file with a dataset of categorized interview questions and their corresponding answers.
+Setup Instructions
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/your-repo-name.git
+Install dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the code:
+bash
+Copy code
+python chatbot_ai.py
+Usage
+Run the notebook or script to initialize the chatbot. The chatbot will process questions and provide answers from the dataset.
+
+Contributions
+Contributions are welcome! Please fork this repository and submit a pull request for review.
+
+License
+MIT License
+
